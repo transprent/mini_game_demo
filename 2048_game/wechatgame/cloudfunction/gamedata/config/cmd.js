@@ -1,0 +1,9 @@
+let CMD = {};
+
+CMD.HEARTBEAT = 1;
+CMD.CREATE_USER = 2;
+
+CMD.LOGIN = 101;
+CMD.UPLOAD_DATA = 102;//上传数据
+
+exports.CMD = CMD;

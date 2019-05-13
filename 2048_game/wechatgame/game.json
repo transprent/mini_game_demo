@@ -1,0 +1,17 @@
+{
+    "deviceOrientation": "portrait",
+    "networkTimeout": {
+        "request": 5000,
+        "connectSocket": 5000,
+        "uploadFile": 5000,
+        "downloadFile": 5000
+    },
+    "subpackages": [],
+    "navigateToMiniProgramAppIdList": [
+        "wx92e63109b3f096de",
+        "wx5797174cf79ae7bf",
+        "wxc628fc23412dc5db",
+        "wx7daec4246ae67438",
+        "wx504598a87e50e96a"
+    ]
+}
